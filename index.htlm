@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>➶nikita's site</title>
+</head>
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="myimage.jpg" width="100" height="200"></td>
+            <td> <h1>NIKITA KSHIRSAGAR</h1>
+                <hr size="3" color="green">
+                
+                <hr size="2" color="green">
+                <p><em><strong>BE student {entc branch}</strong></em></p>
+                <P>I am 19 years old. My hobby is photography📷. I am a beginner.</P>
+
+        </tr>
+    </table>
+    <hr size="3" color="green">
+   
+    <h3>education</h3>
+    <ul>
+        <li>school=<strong></strong><a href="https://centrepointschools.com/"> centre point school </a></strong
+        </li>
+        <li>college=<strong><a href="https://aissmsioit.org/">AISSMS IOIT</a></strong></li>
+        <ul>
+            <li>cps in nagpur</li>
+            <li>aissms in pune</li>
+        </ul>
+    </ul>
+    <hr size="2" color="green">
+    <a href="hobbies.html">My Hobbies</a>
+    <hr size="2" color="green">
+    <h3>fav animal dog</h3>
+       <img src="https://www.thesprucepets.com/thmb/NujGPbVzaXPJb8jYBnhol-KlgyQ=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/40539405_2161860974092198_1325213908451368757_n-5b983819c9e77c0050f7e8d4.jpg" alt="this is the image of a dog" width="100" height="100"> 
+       <img src="animalss (31).jpg" width="100" height="100">
+    <hr size="2" color="green">   
+    <h3>contact me</h3>
+    <a href="contacts.html">My contact details</a>
+    <hr size="2" color="green">
+    <h3>Passing details</h3>
+    <table border="1" cellspacing="10">
+        <thead>
+            <tr>
+                <tr><strong>Year</strong></tr>
+                <tr><strong>Standard</strong></tr>
+                <tr><strong>Percentile</strong></tr>
+            </tr>
+        </thead>    
+        
+        <tr>
+            <td>2017</td>
+            <td>passed 10th</td>
+            <td>93.8%</td>
+        </tr>
+        <tr>
+            <td>2019</td>
+            <td>passed 12th</td>
+            <td>75%</td>
+        </tr>
+    </table>
+    <hr size="2" color="green">
+    <h3>languages</h3>
+    <table cellspacing="20">
+        <tr>
+            <th>course</th>
+            <th>completion</th>
+            <th>course</th>
+            <th>completion</th>
+        </tr>
+        <tr>
+            <td>python</td>
+            <td>★★</td>
+            <td>C</td>
+            <td>★</td>
+        </tr>
+        <tr>
+            <td>C++</td>
+            <td>_</td>
+            <td>java</td>
+            <td>_</td>
+        </tr>
+    </table>
+    <hr size="2" color="green">
+    <h3><strong><a href="scrapbook.html">Scrap Book></a></strong></h3>
+
+</body>
+</html>
